@@ -71,6 +71,7 @@ Developed by: Register Number*/
       (The path of cshrc could vary depending on the installation destination)
       
 	After this you can see the window like below 
+![image](https://github.com/user-attachments/assets/744b0532-1f99-4529-ae44-b4ef4cb8b346)
 
 ### Fig 3:Invoke the Cadence Environment
 
